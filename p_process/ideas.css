@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+  box-sizing: border-box;
+}
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color:#B2DB8B;
+  color: #3E433A;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+}
+h1 {
+
+  font-size: 5em;
+}
+
+h2 {font-size: 3em;
+
+}
+
+h4 {font-size: 1.5em;
+margin-top: 0;
+
+}
+
+dt {
+	font-size: 2em;
+	font-weight: bold;
+}
+a{
+  font-family: "Franklin Gothic Bold";
+  Color:#349B4C;
+  text-decoration: none;
+}
+a:hover{
+  font-family: "Helvetica Neue";
+  color: #7A349B;
+  text-decoration: none;
+

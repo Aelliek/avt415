@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+  box-sizing: border-box;
+}
+
+html{
+	font-family: "Oldenburg", serif;
+	font-weight: 600;
+font-size: 16px;
+}
+
+body{
+  background: url( "../Untitled_Artwork 74.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-color:#BFCEAF;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+}
+h1 {
+font-family: "Rubik Puddles", serif;
+font-size: 5em;
+color: #1C4B1C
+}
+
+h2 {
+  font-family: "Bagel Fat One", serif;
+font-size: 3em;
+	color:#63785B
+
+}
+
+h4 {
+font-size: 1.5em;
+margin-top: 0;
+
+}
+
+dt {
+	font-size: 2em;
+}
+a{
+font-family: "Oldenburg", serif;
+  Color: #5E9342;
+}
+
+a:hover{
+  font-family: "Nixie One", serif;
+  color: #9B7B3A;
+}
+body{
+  background: url("../Untitled_Artwork 74.jpg");
+  background-size:contain,cover;
+  background-repeat:no-repeat;
+  background-color:#BFCEAF;
+	background-attachment: right;
+	background-position: right;
+}
