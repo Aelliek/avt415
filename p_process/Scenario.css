@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+article{
+	width: 50%;
+	margin-right: 50px;
+}
+html{
+font-family: "Bagel Fat One", serif;
+font-weight: 600;
+font-size: 16px;
+line-height: 1em;
+text-align: center;
+}
+h1 {
+font-family: "Rubik Puddles", serif;
+font-kerning:normal;
+font-size:4vw;
+line-height: 0.2em;
+font-kerning: normal;
+
+}
+p{
+font-family: "Oldenburg", serif;
+}
+
+h3{
+font-size:3em;
+line-height: 0.1em;
+}
