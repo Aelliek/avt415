@@ -1,5 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
+article{
+	width: 50%;
+	margin: 0 auto;
+}
+
 body {
   background-color: white;
   margin: 50px;
@@ -53,4 +58,7 @@ li{
   color:#0B2E5D;
   font-size: 18px;
 list-style-type: none;
+}
+opacity{
+	color:#969696
 }
