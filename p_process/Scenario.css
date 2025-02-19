@@ -11,6 +11,9 @@ font-weight: 600;
 font-size: 16px;
 line-height: 1em;
 text-align: center;
+background-color: antiquewhite; 
+color: #362313;
+
 }
 h1 {
 font-family: "Rubik Puddles", serif;
@@ -18,7 +21,6 @@ font-kerning:normal;
 font-size:4vw;
 line-height: 0.2em;
 font-kerning: normal;
-
 }
 p{
 font-family: "Oldenburg", serif;
